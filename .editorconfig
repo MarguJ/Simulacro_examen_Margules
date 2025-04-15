@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1717: Se ha asignado a la misma variable
+dotnet_diagnostic.CS1717.severity = none
